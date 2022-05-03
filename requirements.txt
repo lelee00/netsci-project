@@ -1,0 +1,10 @@
+networkx
+pandas
+numpy
+regex
+lxml
+bs4
+selenium
+requests
+matplotlib
+scipy
